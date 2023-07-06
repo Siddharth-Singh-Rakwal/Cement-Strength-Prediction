@@ -7,7 +7,7 @@ The Cement Strength Prediction project aims to develop a machine learning model 
 
 [GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Cement-Strength-Prediction)
 
-[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-algorithms-data-activity-7081225967054000128-uFFb?utm_source=share&utm_medium=member_desktop)
+[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-constructionindustry-activity-7082732685198073856-QQgI?utm_source=share&utm_medium=member_desktop)
 
 #
 
